@@ -1,0 +1,29 @@
+body {
+    background-color: blue;
+    height: 100vh;
+}
+.wholecontainer {
+    background-color: azure;
+    height: 25vh;
+    border: solid azure 10px;
+    max-width: 450px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.stats {
+    border: solid 1px;
+}
+.stat {
+    margin: 10px 2px;
+    padding: 10px 2px;
+}
+.actions {
+    border: solid 1px;
+    padding: 3px;
+}
+.description {
+    background-color: black;
+    color: white;
+    padding: 5px 11px;
+}
